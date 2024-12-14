@@ -18,7 +18,7 @@
 
   <main>
     <p>You have navigated from another domain!</p>
-    <a href="[https://your-first-domain.github.io](https://lochannetpal.github.io/demo-website-1/)">Go back to Demo Website 1</a>
+    <a href="https://lochannetpal.github.io/demo-website-1/">Go back to Demo Website 1</a>
   </main>
 </body>
 </html>
