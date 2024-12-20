@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Demo Website 2</title>
+  <title>Habuild Demo Website 2</title>
   <!-- Google Tag Manager Snippet -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -13,7 +13,7 @@
 </head>
 <body>
   <header>
-    <h1>Welcome to Demo Website 2</h1>
+    <h1>Welcome to Habuild Demo Website 2</h1>
   </header>
 
   <main>
